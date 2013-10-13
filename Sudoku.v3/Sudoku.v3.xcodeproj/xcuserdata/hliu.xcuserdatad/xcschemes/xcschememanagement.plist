@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Sudoku v.3 Tests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Sudoku v.3.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Sudoku.v3 Tests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Sudoku.v3.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Tests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>Unit Tests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>4C21000B17ECDD9F00186E45</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4C21FF0F17E396B600186E45</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4C21FFC017ECD90400186E45</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4C21FFDB17ECDB9400186E45</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4C21FFF317ECDBF300186E45</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>932CB82817E66B8000195F95</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
